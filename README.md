@@ -28,7 +28,7 @@ Docker: Install Docker on your operating system.
 Docker Hub Account (optional): Required if you plan to push images to Docker Hub for public or collaborative access.
 First, clone the repository and navigate to the project’s root directory:
 
-git clone https://github.com/centralperkgithub/Assignment-Submission-Repo-.git
+git clone https://github.com/Ayushkumar-22/Assignment.git
 cd Assignment-Submission-Repo-
 Docker Configuration Files
 1. Frontend Dockerfile
